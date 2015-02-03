@@ -21,11 +21,6 @@
 			<key>Path</key>
 			<string>./Resources</string>
 		</dict>
-		<key>Podfile</key>
-		<dict>
-			<key>Path</key>
-			<string>./Podfile</string>
-		</dict>
 	</dict>
 	<key>Description</key>
 	<string>PIXNET自定義的專案模板，創建專案時會自動創建好目錄結構</string>
@@ -37,7 +32,6 @@
 	<array>
 		<string>Sources</string>
 		<string>Resources</string>
-		<string>Podfile</string>
 	</array>
 	<key>Options</key>
 	<array>
