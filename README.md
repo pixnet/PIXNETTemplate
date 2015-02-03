@@ -37,4 +37,4 @@ PS:如果無Templates目錄，手動創建然後再添加進去
 
 ----Document        (該目錄存放專案文檔文件，例如：PDF文件，TXT文件等...)
 
-![alt tag](https://github.com/pixnet/PIXNETTemplate/blob/master/PIXNETTemplate.xctemplate/template.png)
+![alt tag](https://github.com/pixnet/PIXNETTemplate/blob/master/template.png)
