@@ -1,6 +1,6 @@
 # PIXNETTemplates
 
-1.安裝方法
+##1.安裝方法
 
 安裝方法：
 clone https://github.com/pixnet/PIXNETTemplate
@@ -11,7 +11,7 @@ clone https://github.com/pixnet/PIXNETTemplate
 
 PS:如果無Templates目錄，手動創建然後再添加進去
 
-2.模板介紹
+##2.模板介紹
 
 --Sources           (該目錄存放專案所有的代碼文件)
 
